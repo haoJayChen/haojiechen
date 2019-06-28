@@ -1,0 +1,9 @@
+1、layerui 金融项目 借口全由提供（xml类型），只有前端工作
+2、老王的erm项目 用freeman提供的框架
+
+http://csj.wego100.com/web.teachingResearch/certificate/toNewCertificate?corpid=wx56082dbc10289e3a&trainingId=210  显示生成证书的人数
+
+{
+    [颜色列表]，
+    {"160/30/f" : [1,2,3],"160/30/f" : [1,2,3]};
+}
